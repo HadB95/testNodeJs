@@ -1,0 +1,31 @@
+[
+
+    {
+        "name": "Aaigem",
+        "npa": "9420",
+        "region": "",
+        "country": "BEL",
+        "url": "aaigem"
+    },
+    {
+        "name": "Aalbeke",
+        "npa": "8511",
+        "region": "",
+        "country": "BEL",
+        "url": "aalbeke"
+    },
+    {
+        "name": "Aalst",
+        "npa": "9300",
+        "region": "",
+        "country": "BEL",
+        "url": "aalst"
+    },
+    {
+        "name": "Aalst (Limb.)",
+        "npa": "3800",
+        "region": "",
+        "country": "BEL",
+        "url": "aalst-limb-"
+    }
+]

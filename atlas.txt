@@ -1,0 +1,8 @@
+mongodb+srv://dwwm:THbJUVExtYKk2khS@cluster0.ve6an.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+https://www.prevision-meteo.ch/services/json/list-cities
+
+{ "name": { "$regex": /^Paris/i } }
+
+{"name": true, "url":true, "_id":false}
+
